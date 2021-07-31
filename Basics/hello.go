@@ -3,7 +3,7 @@ package main
 import "fmt" //format package
 func main() {
 	var nameOne string = "mario"
-	//keyword + name + type
+	//keyword + name + type(int, float, string, )
 	var nameTwo = "luig"
 	var nameThree string
 	fmt.Println(nameOne, nameTwo, nameThree)
