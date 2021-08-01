@@ -4,8 +4,8 @@ import "fmt"
 
 func main(){
 	a:= 6
-	//fmt.Printf(a)
-	fmt.Printf("%v = %T \n",a,a)
+	fmt.Printf("a")
+	print(a + 5)
 }
 
 // <Printf> - "Print Formatter" this function allows you to format numbers, variables and strings into the first string parameter you give it. <Printf> formats according to a format specifier and writes to standard output. It returns the number of bytes written and any write error encountered.
