@@ -15,6 +15,6 @@ func main() {
 	//bit shifting
 	x := 8              //2^3
 	fmt.Println(x << 3) //2^3 * 2^3 =2^6
-	fmt.Println(x >> 3) //2^3 / 2^3 =2^1
+	fmt.Println(x >> 3) //2^3 / 2^3 =2^0
 
 }
