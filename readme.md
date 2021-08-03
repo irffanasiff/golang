@@ -1,4 +1,4 @@
-#Go Lang Notes<img src="./logo.png" height="50" width="auto">  
+# Go Lang Notes  <img src="./logo.png" height="40" width="auto">  
 
 ###Variable Scope
 - The places in code where a variable can be accessed
@@ -113,3 +113,5 @@ func f(){
       fmt.Printf("%d", *y)
   }
   ```
+### Variable Scope
+- The places in code where a variable can be accessed
