@@ -126,7 +126,7 @@ func f(){
 
 ###Printing
 - Format strings are good for formatting
-- - conversion characters for each argument
+  - conversion characters for each argument
   ``` fmt.Printf("Hi %s", x)```
 
 - Generic int declaration
